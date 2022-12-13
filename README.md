@@ -7,7 +7,7 @@ A crawler written in Python to automatically download papers from SciHub
 
 The crawler is based on these packages: `pandas`, `selenium.webdriver`, `time`, `os`, `random`.
 
-爬行器基于这些包：“熊猫”、“硒”。webdriver`，`time`，`os`，`random`。
+爬行器基于这些包：`pandas`、`selenium.webdriver`，`time`，`os`，`random`。
 
 
 This is a script from my previous work for doing a mass literature review (about 800 papers). The document is [here](https://dong2000.xyz/post/crawl_papers_from_scihub/) on my blog website. Inputs needed are: first author names, publication years, DOI numbers. Here the data was extracted from Web of Science. You can modify this part for any other source.
